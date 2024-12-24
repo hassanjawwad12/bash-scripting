@@ -9,6 +9,8 @@ Sample code for learning bash scripting complete
 </br>
 [IP-Address](https://stackoverflow.com/questions/21336126/linux-bash-script-to-extract-ip-address)
 </br>
+[Control-Statements](https://eng.libretexts.org/Bookshelves/Computer_Science/Operating_Systems/Linux_-_The_Penguin_Marches_On_(McClanahan)/13%3A_Working_with_Bash_Scripts/4.10%3A_Shell_Control_Statements)
+</br>
 [AWK](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 </br>
 
